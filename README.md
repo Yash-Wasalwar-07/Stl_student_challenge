@@ -7,7 +7,7 @@ This app is an LLM-powered chatbot built using Streamlit and HugChat.
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hugchat.streamlit.app/)
+[//]: # ([![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hugchat.streamlit.app/))
 
 ## Disclaimer
 The following disclaimer is from the GitHub repo from the authors of the [HugChat](https://github.com/Soulter/hugging-chat-api) port.
