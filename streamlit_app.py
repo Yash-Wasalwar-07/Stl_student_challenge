@@ -38,7 +38,7 @@ response_container = st.container()
 # User input
 ## Function for taking user provided prompt as input
 def get_text():
-    input_text = st.text_input("You: ", "", key="input")
+    input_text = st.text_input("What's on your mind?: ", "", key="input")
     return input_text
 ## Applying the user input box
 with input_container:
